@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+}
+h1{
+    background-color: white;
+    color: aqua;
+}
+h4{
+    background-color: black;
+    color: white;
+}
+#start{
+    background-color: black;
+    color: aqua;
+}
+input{
+    background-color: aqua;
+}
+button{
+    background-color: white;
+}
+canvas{
+    border: 5px, red, dashed;
+    border-radius: 5px;
+    margin-top: 20px;
+    box-shadow: 5px, 5px, 2px, aqua;
+}
